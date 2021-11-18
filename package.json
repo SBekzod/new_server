@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "moment": "^2.29.1"
+  }
 }
